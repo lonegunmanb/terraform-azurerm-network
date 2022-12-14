@@ -1,10 +1,10 @@
 # Changelog
 
-## [5.0.0](https://github.com/Azure/terraform-azurerm-network/tree/5.0.0) (2022-12-13)
+## [Unreleased](https://github.com/lonegunmanb/terraform-azurerm-network/tree/HEAD)
 
 **Merged pull requests:**
 
-- Make `var.use_for_each` required [\#85](https://github.com/Azure/terraform-azurerm-network/pull/85) ([lonegunmanb](https://github.com/lonegunmanb))
+- add dependabot config to keep go.mod udpate [\#1](https://github.com/lonegunmanb/terraform-azurerm-network/pull/1) ([lonegunmanb](https://github.com/lonegunmanb))
 
 
 
